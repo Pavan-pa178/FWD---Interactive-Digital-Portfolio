@@ -83,7 +83,7 @@ FWD — Interactive Digital Portfolio/
 ## 👤 Author & Contact
 
 **Pavan Kumar**  
-- 📧 pavan1234@gmail.com  
+- 📧 pavan.kotaprolu@gmail.com  
 - 🌐 LinkedIn: linkedin.com/in/kotaprolupavankumar/  
 - 💻 GitHub: github.com/Pavan-pa178  
 
